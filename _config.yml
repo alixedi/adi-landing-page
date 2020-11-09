@@ -63,12 +63,8 @@ features:
     fontawesome_icon_name: pound-sign
 
   - title: Licensed materials from the DVSA
-    description: The learning materials for our app are licensed from the DVSA. 700-odd questions, 10 scenarios & 34 hazard perception clips. From the people who make the real test.
+    description: The learning materials for our app are licensed from the DVSA. 800-odd questions & 34 hazard perception clips. From the people who make the real test.
     fontawesome_icon_name: certificate
-
-  - title: Case-studies included
-    description: We have included 10 case studies with about 20 questions each. This should cover the part in the test that other apps often miss out.
-    fontawesome_icon_name: theater-masks
 
   - title: A sprinkle of Science
     description: Learning 700 questions can be daunting. So we have build the app with spaced repetition - the science that will ensure that you don't forget what you have learned. As you go through the material, questions will repeat until you get them right several times.
